@@ -1,0 +1,4 @@
+this is an animal:
+elephant
+dog
+cat
